@@ -74,17 +74,17 @@
 - Stability and Capability in Quality Improvement - 9 hours
 - Measurement Systems Analysis - 16 hours
 
-#### [Introduction to High-Performance and Parallel Computing] - 24 hours
+#### [Introduction to High-Performance and Parallel Computing](https://github.com/BKnightHD/MS-Data-Science/tree/main/Elective%20Courses/Introduction%20to%20High-Performance%20and%20Parallel%20Computing)- 24 hours
 
 - Introduction to High-Performance and Parallel Computing - 24 hours
 
-#### [Finance for Technical Managers Specialization]- 50 hours
+#### [Finance for Technical Managers Specialization] (https://github.com/BKnightHD/MS-Data-Science/tree/main/Elective%20Courses/Finance%20for%20Technical%20Managers%20Specialization) - 50 hours
 
 - Product Cost and Investment Cash Flow Analysis - 20 hours
 - Project Valuation and the Capital Budgeting Process - 17 hours
 - Financial Forecasting and Reporting - 13 hours
 
-#### [Effective Communication] - 74 hours
+#### [Effective Communication] ()- 74 hours
 
 - Business Writting - 12 hours
 - Graphic Design - 29 hours
