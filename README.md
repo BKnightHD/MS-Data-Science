@@ -84,20 +84,20 @@
 - Project Valuation and the Capital Budgeting Process - 17 hours
 - Financial Forecasting and Reporting - 13 hours
 
-#### [Effective Communication] ()- 74 hours
+#### [Effective Communication](https://github.com/BKnightHD/MS-Data-Science/tree/main/Elective%20Courses/Effective%20Communication)- 74 hours
 
 - Business Writting - 12 hours
 - Graphic Design - 29 hours
 - Successful Presentation - 20 hours
 - Effective communication capstone project - 13 hours
 
-#### [Statistical Learning for Data Science]
+#### [Statistical Learning for Data Science](https://github.com/BKnightHD/MS-Data-Science/tree/main/Elective%20Courses/Statistical%20Learning%20for%20Data%20Science) - 61 hours
 
 - Regression and Classification - 34 hours
-- Resampling, Selection, and Splines - Coming soon!
-- Trees, SVM, and Unsupervised Learning - Coming soon!
+- Resampling, Selection, and Splines - 15 hours
+- Trees, SVM, and Unsupervised Learning - 12 hours
 
-#### [Software Architecture for Big Data Specialization] - 63 hours
+#### [Software Architecture for Big Data Specialization](https://github.com/BKnightHD/MS-Data-Science/tree/main/Elective%20Courses/Software%20Architecture%20for%20Big%20Data%20Specialization) - 63 hours
 
 - Applications of Software Architecture for Big Data - 17 hours
 - Fundamentals of Software Architecture for Big Data - 23 hours
