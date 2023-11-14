@@ -78,7 +78,7 @@
 
 - Introduction to High-Performance and Parallel Computing - 24 hours
 
-#### [Finance for Technical Managers Specialization] (https://github.com/BKnightHD/MS-Data-Science/tree/main/Elective%20Courses/Finance%20for%20Technical%20Managers%20Specialization) - 50 hours
+#### [Finance for Technical Managers Specialization](https://github.com/BKnightHD/MS-Data-Science/tree/main/Elective%20Courses/Finance%20for%20Technical%20Managers%20Specialization) - 50 hours
 
 - Product Cost and Investment Cash Flow Analysis - 20 hours
 - Project Valuation and the Capital Budgeting Process - 17 hours
