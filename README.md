@@ -140,11 +140,11 @@ https://www.coursera.org/degrees/master-of-science-data-science-boulder/academic
 - Essential Linear Algebra for Data Science
 - Integral Calculus and Numerical Analysis for Data Science
 
-[x] Expressway to Data Science: Python Programming Specialization
+[x] Machine Learning Specialization
 
-- Introduction to Python Fundamentals
-- Introduction to Python Functions
-- Python Packages for Data Science
+- Supurvised Machine Learning: Regression and Classification
+- Advanced Learning Algorithms
+- Unsupervised Learning, Recommenders, Reinforcement Learning
 
 [ ] Expressway to Data Science: R Programming and Tidyverse
 
@@ -152,7 +152,7 @@ https://www.coursera.org/degrees/master-of-science-data-science-boulder/academic
 - Data Analysis with Tidyverse
 - R Programming and Tidyverse Capstone Project
 
-##### Core:
+##### Pathway:
 
 [x] Data Science Foundations: Data Structures and Algorithms Specialization
 
@@ -166,7 +166,15 @@ https://www.coursera.org/degrees/master-of-science-data-science-boulder/academic
 - Statistical Inference for Estimation in Data Science
 - Statistical Inference and Hypothesis Testing in Data Science Applications
 
-[x] Databases for Data Scientists Specialization
+##### Core:
+
+[ ] Data Mining Foundations and Practice
+
+- Data Mining Pipeline
+- Data Mining Methods
+- Data Mining Project
+
+[ ] Databases for Data Scientists Specialization
 
 - Relational Database Design
 - The Structured Query Language (SQL)
@@ -184,11 +192,6 @@ https://www.coursera.org/degrees/master-of-science-data-science-boulder/academic
 - ANOVA and Experimental Design
 - Generalized Linear Models and Nonparametric Regression
 
-[ ] Data Mining Foundations and Practice
-
-- Data Mining Pipeline
-- Data Mining Methods
-- Data Mining Project
 
 ##### Electives:
 
@@ -198,7 +201,7 @@ https://www.coursera.org/degrees/master-of-science-data-science-boulder/academic
 - Stability and Capability in Quality Improvement
 - Measurement Systems Analysis
 
-[x] Deep Learning Applications for Computer Vision
+[ ] Deep Learning Applications for Computer Vision
 
 - Deep Learning Applications for Computer Vision
 
