@@ -2,7 +2,7 @@
 
 --- 
 
-## [Pathway](https://github.com/BKnightHD/MS-Data-Science/tree/main/Pathway): 
+## [Pathway](https://github.com/BKnightHD/MS-Data-Science/tree/main/Pathway):
 
 #### [Data Science Foundations: Data Structures and Algorithms](https://github.com/BKnightHD/MS-Data-Science/tree/main/Pathway/Data%20Science%20Foundations%3A%20Data%20Structures%20and%20Algorithms) - 107 hours
 
