@@ -1,5 +1,5 @@
 # The University of Colorado Boulder - Master of Science degree in Data Science [MSDS](https://www.colorado.edu/program/data-science/)
- 
+  
 ---
 
 ## [Pathway](https://github.com/BKnightHD/MS-Data-Science/tree/main/Pathway): 
