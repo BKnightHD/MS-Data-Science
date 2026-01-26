@@ -9,7 +9,7 @@
 #### [Data Science Foundations: Statistical Inference](https://github.com/BKnightHD/MS-Data-Science/tree/main/Pathway/Data%20Science%20Foundations%20-%20Statistical%20Inference%20Specialization) - 113 hours
  
 - Probability theory: Applications for Data Science - 48 hours
-- Statistical Inference for estimation in Data Science - 28 hours
+- Statistical Inference for estimation in Data Science - 28 hours 
 - Statistical Inference and Hypothesis testing in Data Science Applications - 37 hours
 ---
 
