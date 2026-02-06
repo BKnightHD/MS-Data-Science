@@ -3,7 +3,7 @@
 #### [Data Science Foundations: Data Structures and Algorithms](https://github.com/BKnightHD/MS-Data-Science/tree/main/Pathway/Data%20Science%20Foundations%3A%20Data%20Structures%20and%20Algorithms) - 107 hours
 
 - Algorithms for searching, sorting and indexing - 35 hours 
-- Trees and graphs: basics - 34 hours
+- Trees and graphs: basics - 34 hours 
 - Dynamic programming, Greedy algorithms - 38 hours  
 
 #### [Data Science Foundations: Statistical Inference](https://github.com/BKnightHD/MS-Data-Science/tree/main/Pathway/Data%20Science%20Foundations%20-%20Statistical%20Inference%20Specialization) - 113 hours
@@ -201,7 +201,7 @@ https://www.coursera.org/degrees/master-of-science-data-science-boulder/academic
 
 - Deep Learning Applications for Computer Vision
 
-[ ] Finance for Technical Managers Specialization
+[ ] Finance for Technical Managers Specialization 
 
 - Product Cost and Investment Cash Flow Analysis
 - Project Valuation and the Capital Budgeting Process
