@@ -2,8 +2,7 @@ name: Daily Date File
 
 on:
   schedule:
-    # 7:00 AM UTC (adjust if needed — cron is always UTC)
-    - cron: "0 7 * * *"
+    - cron: "0 13 * * *"   # 7:00 AM CST (UTC-6). Change if needed.
   workflow_dispatch: {}
 
 permissions:
@@ -18,10 +17,12 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Create date file
+        shell: bash
         run: |
           echo "Today's date is $(date -u +'%Y-%m-%d')" > today.txt
 
       - name: Commit and push if changed
+        shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -29,3 +30,9 @@ jobs:
           if git diff --quiet; then
             echo "No changes."
             exit 0
+          fi
+
+          git add today.txt
+          git commit -m "Daily date update"
+          git push
+
