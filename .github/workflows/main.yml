@@ -19,7 +19,7 @@ jobs:
       - name: Create date file
         shell: bash
         run: |
-          echo "Today's date is $(date -u +'%Y-%m-%d %H:%M:%S')" > today.txt
+          echo "Today's date is $(date -u +'%Y-%m-%d')" > today.txt
 
       - name: Debug - show files and git status
         shell: bash
