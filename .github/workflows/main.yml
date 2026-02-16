@@ -2,7 +2,7 @@ name: Daily Date File
 
 on:
   schedule:
-    - cron: "0 13 * * *"   # 7:00 AM CST (UTC-6). Change if needed.
+    - cron: "0 13 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -21,18 +21,30 @@ jobs:
         run: |
           echo "Today's date is $(date -u +'%Y-%m-%d')" > today.txt
 
+      - name: Debug - show files and git status
+        shell: bash
+        run: |
+          ls -la
+          echo "----- today.txt -----"
+          cat today.txt || true
+          echo "----- git status -----"
+          git status --porcelain
+
       - name: Commit and push if changed
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          if git diff --quiet; then
-            echo "No changes."
+          # Stage first, then check if there's anything staged
+          git add today.txt
+
+          if git diff --cached --quiet; then
+            echo "No staged changes."
             exit 0
           fi
 
-          git add today.txt
           git commit -m "Daily date update"
           git push
+
 
