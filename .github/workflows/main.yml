@@ -33,8 +33,8 @@ jobs:
       - name: Commit and push if changed
         shell: bash
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "Brandon J Knight"
+          git config user.email "Knightb1297@gmail.com"
 
           # Stage first, then check if there's anything staged
           git add today.txt
