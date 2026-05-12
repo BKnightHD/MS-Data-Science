@@ -170,7 +170,7 @@ https://www.coursera.org/degrees/master-of-science-data-science-boulder/academic
 - Data Mining Methods
 - Data Mining Project
 
-[ ] Databases for Data Scientists Specialization
+[x] Databases for Data Scientists Specialization
 
 - Relational Database Design
 - The Structured Query Language (SQL)
