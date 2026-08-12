@@ -17,7 +17,7 @@
 
 #### [Vital skills for Data Scientists](https://github.com/BKnightHD/MS-Data-Science/tree/main/Vital%20Skills/Vital%20Skills%20for%20Data%20Science) - 68 hours
 
-- Data Science as a field - 11 hours
+- Data Science as a field - 11 hours 
 - Cybersecurity for data science - 19 hours
 - Ethical issues in Data Science - 24 hours
 - Visualization fundamentals - 14 hours
