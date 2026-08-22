@@ -11,7 +11,7 @@
 - Probability theory: Applications for Data Science - 48 hours
 - Statistical Inference for estimation in Data Science - 28 hours 
 - Statistical Inference and Hypothesis testing in Data Science Applications - 37 hours
----
+--- 
 
 ## [Vital Skills](https://github.com/BKnightHD/MS-Data-Science/tree/main/Vital%20Skills):
 
